@@ -1,0 +1,6 @@
+{
+  "name": "ECHONOVA — JCOET Creator Platform",
+  "description": "Premium full-stack podcast and video publishing platform for Jagadambha College of Engineering & Technology (JCOET). Your Voice. Your Universe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
